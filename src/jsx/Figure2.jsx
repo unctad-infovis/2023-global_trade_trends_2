@@ -50,10 +50,10 @@ function Figure2() {
       <ChartLine
         idx="2"
         data={dataFigure}
-        note="China exports dependence on the US is calculated as China exports to the US over total China exports. The United States imports dependence on China is calculated as US imports to China over total US imports. The overall trade dependence is calculated as bilateral trade (imports+exports) of US and China over the sum of total trade of the two countries."
+        note="The overall trade interdependence is calculated as bilateral trade (imports+exports) of United States and China over the sum of total trade of the two countries."
         show_first_label
         source="UNCTAD secretariat calculations based on national data."
-        subtitle="United States imports dependence declined more than China export dependence"
+        subtitle="Trade interdependence, 2021 – Q2 2023"
         suffix="%"
         title="United States-China trade dependence has been decreasing in 2022"
         ylabel=""
