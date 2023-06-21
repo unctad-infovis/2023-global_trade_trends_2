@@ -323,7 +323,7 @@ function LineChart({
             text: 'Preliminary',
             verticalAlign: 'bottom',
             x: 35,
-            y: -77
+            y: -95
           }
         }],
         plotLines: [{
